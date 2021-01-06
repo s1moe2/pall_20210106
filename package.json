@@ -1,0 +1,11 @@
+{
+  "name": "promise-all",
+  "version": "1.0.0",
+  "main": "lib.js",
+  "scripts": {
+    "test": "mocha lib.spec.js --timeout 8000"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
